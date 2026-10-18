@@ -1,0 +1,11 @@
+{
+  "name": "Inventory Improved",
+  "description": "Adds configurable item grid styles and an in-game settings overlay to the inventory screen.",
+  "version": "1.5.0",
+  "author": "Alfthebigheaded",
+  "homepage": "https://www.nexusmods.com/warhammer40kdarktide/mods/355",
+  "source": "https://github.com/stars/ATCostello/lists/alf-s-darktide-mods",
+  "funding": {
+    "kofi": "https://ko-fi.com/Alfthebigheaded"
+  }
+}
